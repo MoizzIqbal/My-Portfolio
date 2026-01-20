@@ -119,7 +119,7 @@ function Navbar() {
             </li> */}
             <li>
               <NavLink
-                to="/services"
+                to="/projects"
                 smooth={true}
                 duration={500}
                 spy={true}

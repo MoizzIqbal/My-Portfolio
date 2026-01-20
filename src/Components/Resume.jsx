@@ -1,5 +1,6 @@
 import React from "react";
-import resume from "./MoizResume.pdf";
+// import resume from "./MoizResume.pdf";
+import resume from "../assets/MoizCv.pdf";
 function Resume() {
   return (
     <>
