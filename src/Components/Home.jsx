@@ -1,5 +1,5 @@
 import React from "react";
-import hero from "/assets/img/hero-bg.jpg";
+import hero from "../assets/img/hero-bg.jpg";
 import { Typewriter } from "react-simple-typewriter";
 function Home() {
   return (
