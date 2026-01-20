@@ -1,5 +1,5 @@
 import React from "react";
-import resume from './moizresume.pdf'
+import resume from "./moizresume.pdf";
 function Portfolio() {
   return (
     <>

@@ -30,7 +30,7 @@ function App() {
     accountName = "Mr. Moiz Iqbal"
     avatar={myprofile}
     statusMessage= "Online"
-    phoneNumber ="+923099990802"
+    phoneNumber ="+923124040210"
     notification={true} 
     />
       <Routes>

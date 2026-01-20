@@ -48,7 +48,7 @@ function Navbar() {
 
         <div className="social-links text-center">
           <a
-            href="https://wa.me/03099990802"
+            href="https://wa.me/03124240210"
             target="_blank"
             rel="noopener noreferrer"
             className="facebook"

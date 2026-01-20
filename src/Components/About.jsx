@@ -83,9 +83,7 @@ function About() {
         {/* <!-- Section Title --> */}
         <div class="container section-title" data-aos="fade-up">
           <h2>Skills</h2>
-          <p>
-          I have expertise in Web development.
-          </p>
+          <p>I have expertise in Web development.</p>
         </div>
         {/* <!-- End Section Title --> */}
 

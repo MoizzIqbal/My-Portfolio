@@ -87,7 +87,7 @@ function Contact() {
                   <div>
                     <h3>Call Me</h3>
                     <p>
-                      <a href="tel:030999990802">0309-99990802</a>
+                      <a href="tel:03124240210">0312-4240210</a>
                     </p>
                   </div>
                 </div>
