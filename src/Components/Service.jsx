@@ -1,8 +1,8 @@
 import React from "react";
 import cruddimg from "../assets/img/portfolio/crud.jpg";
-import ecommerce from "../assets/img/portfolio/ecom.PNG";
-import shayaan from "../assets/img/portfolio/shayaan.PNG";
-import pizza from "../assets/img/portfolio/pizza.PNG";
+import ecommerce from "../assets/img/portfolio/ecom.png";
+import shayaan from "../assets/img/portfolio/shayaan.png";
+import pizza from "../assets/img/portfolio/pizza.png";
 function Service() {
   return (
     <>
