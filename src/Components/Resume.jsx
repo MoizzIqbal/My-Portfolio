@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../../public/assets/MoizCv.pdf";
+import resume from "/assets/MoizCv.pdf";
 function Resume() {
   return (
     <>

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import myprofile from "../../public/assets/img/pic.png";
+import myprofile from "/assets/img/pic.png";
 import { IoHomeOutline } from "react-icons/io5";
 import { FaRegUser } from "react-icons/fa";
 import { IoDocumentTextOutline } from "react-icons/io5";

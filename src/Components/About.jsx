@@ -1,5 +1,5 @@
 import React from "react";
-import myprofile from "../../public/assets/img/pic.png";
+import myprofile from "/assets/img/pic.png";
 import { MdKeyboardArrowRight } from "react-icons/md";
 function About() {
   return (
