@@ -6,7 +6,7 @@ function Resume() {
       {/* <!-- Resume Section --> */}
       <section
         id="/resume"
-        style={{ marginLeft: "22%" }}
+       
         class="resume section"
       >
         {/* <!-- Section Title --> */}
@@ -41,7 +41,7 @@ function Resume() {
                 <ul>
                   <li>Lahore , PAK</li>
                   <li>
-                    <a href="tel:030999990802">0309-99990802</a>
+                    <a href="tel:+923124240210">0312-4240210</a>
                   </li>
                   <li>
                     <a href="mailto:moiziqbal302@gmail.com">

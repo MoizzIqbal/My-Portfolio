@@ -8,7 +8,7 @@ function Service() {
     <>
       <section
         id="/services"
-        style={{ marginLeft: "22%" }}
+        
         class="services section"
       >
         {/* <!-- Section Title --> */}

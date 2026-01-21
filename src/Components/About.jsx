@@ -5,7 +5,7 @@ function About() {
   return (
     <>
       {/* <!-- About Section --> */}
-      <section id="/about" style={{ marginLeft: "22%" }} class="about section">
+      <section id="/about"  class="about section">
         {/* <!-- Section Title --> */}
         <div class="container section-title" data-aos="fade-up">
           <h2>About</h2>
@@ -77,7 +77,7 @@ function About() {
       {/* <!-- Skills Section --> */}
       <section
         id="skills"
-        style={{ marginLeft: "22%" }}
+      
         class="skills section light-background"
       >
         {/* <!-- Section Title --> */}

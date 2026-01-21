@@ -51,7 +51,7 @@ function Contact() {
       <ToastContainer />
       <section
         id="/contact"
-        style={{ marginLeft: "22%" }}
+        
         className="contact section"
       >
         {/* <!-- Section Title --> */}
